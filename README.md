@@ -13,3 +13,5 @@ Dieses Projekt ist eine kleine Webanwendung, die mit Streamlit erstellt wurde. E
 -main.py – die Hauptanwendung
 
 -api.py – enthält die API-Funktion zum Abrufen der Pokémon-Daten
+
+Das war SUPER GEMACHT
