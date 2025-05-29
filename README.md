@@ -15,3 +15,5 @@ Dieses Projekt ist eine kleine Webanwendung, die mit Streamlit erstellt wurde. E
 -api.py – enthält die API-Funktion zum Abrufen der Pokémon-Daten
 
  SUPER GEMACHT
+
+Gricsha!!!
